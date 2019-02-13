@@ -24,7 +24,6 @@ categories:
 {% endnote %}
 
 ### 安装Hexo<span id="jump"></span>
->>>>>>> hexo
 Hexo官网文档很清晰：[Hexo官网](https://hexo.io/zh-cn/)
 文档中包括了`git`、`nodejs`、`hexo`的安装和部分配置
 
@@ -95,4 +94,3 @@ deploy:
 2. 切换分支：`git checkout hexo`(默认分支是master)
 3. 其他步骤同[安装Hexo](#jump)
 **注意：不用执行 hexo init 进行初始化！！！**
->>>>>>> hexo
