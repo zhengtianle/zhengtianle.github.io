@@ -2,11 +2,11 @@
 title: Hexo+Next+Github Pages搭建个人博客
 date: 2018-11-20 11:12:20
 tags: 
-- hexo
-- next
+- Hexo
+- Next
 categories: 
-- hexo
-- next
+- Hexo
+- Next
 ---
 
 今天是个值得纪念的日子，由于本人重装系统(逃离ubuntu入了manjaro的坑)，在没有备份hexo+next配置文件的情况下，时隔两个月零十二天再次恢复了本博客的正常更新运行。写下本文记录恢复博客的操作并借此文章再次告诫自己备份的重要性！

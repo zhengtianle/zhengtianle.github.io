@@ -3,7 +3,7 @@ title: '[设计模式]java中的代理模式之女神的饭我包了'
 date: 2019-03-19 19:39:05
 tags:
 - 设计模式
-- java
+- Java
 categories:
 - 设计模式
 - 结构型模式
